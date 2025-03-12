@@ -1,6 +1,6 @@
 # Plataforma de Agenda de clientes da Mindsait
 
-Projeto desenvolvido com Spring Boot, com CRUD completo que permite aos usuários gerenciar seus clientes e contatos. 
+Projeto desenvolvido com Spring Boot, com CRUD completo que permite aos usuários gerenciar seus clientes e contatos. Utilizei uso de Records para Mala Direta. 
 
 Agenda Mindsait Backend
 Este é o repositório do backend do projeto Agenda Mindsait. Aqui você encontrará instruções para configurar e rodar o projeto localmente, além de acessar a documentação da API via Swagger.
